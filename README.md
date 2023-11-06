@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on image-recogition for automation testing.
+
+I'm currently learning more about check-list style manual testing, and planning.
