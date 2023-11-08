@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yeetbix529/yeetbix529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I've been having fun learning more about image-recognition testing with SikuliX for a game that's captured my attention lately Bounty Of One!
+# Welcome to my GitHub Profile! 👋
 
-It follows a "what You See Is What You Get" method of automated navigation for game testing.
+I'm Josh, and I'm passionate about Quality Assurance in the game industry, especially when it comes to automation and performance testing! 🎮  
 
-Check out Bounty Of One on Steam if you get the chance, it is a really fun game to play: https://store.steampowered.com/app/1968730/Bounty_of_One/
+## About Me
+- 👨‍💻 I enjoy diving deep into the world of automated game testing using various tools.
+- 🌟 
 
-Github Repo: https://github.com/yeetbix529/bountyofone_automation
+## Project Highlights
+Here are some of the exciting things I've been working on:
+
+### Bounty Of One Automation with SikuliX
+This project uses image-recognition testing to automate tedious game checks. 
+<p align="center">
+  <img src="https://github.com/yeetbix529/yeetbix529/assets/68143085/0d1cf7e7-742c-4566-ae57-5c3263f95e65" alt="Bounty Of One Image 1" width="200" height="200">
+  <img src="https://github.com/yeetbix529/yeetbix529/assets/68143085/392507cf-5c74-4c0a-999f-744309691d25" alt="Bounty Of One Image 2" width="200" height="200">
+</p>
+Explore the [Bounty Of One Automation Repository](https://github.com/yeetbix529/bountyofone_automation) for more details.
+
+## Game Spotlight
+If you're a gaming enthusiast like me, I highly recommend checking out [Bounty Of One](https://store.steampowered.com/app/1968730/Bounty_of_One/) on Steam. It's an incredibly fun game that's worth your time!
+
+Feel free to connect with me, share your thoughts, or collaborate on exciting projects. Let's make the gaming world better together! 🎮
