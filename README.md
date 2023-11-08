@@ -19,3 +19,4 @@ I've been having fun learning more about image-recognition testing with SikuliX 
 It follows a "what You See Is What You Get" method of automated navigation for game testing.
 
 Check out Bounty Of One on Steam if you get the chance, it is a really fun game to play: https://store.steampowered.com/app/1968730/Bounty_of_One/
+Github Repo: https://github.com/yeetbix529/bountyofone_automation
