@@ -24,9 +24,4 @@ I'm Josh, and I'm passionate about Quality Assurance in the game industry, espec
 Here are some of the exciting things I've been working on:
 
 ### Bounty Of One Automation with SikuliX
-This project leverages the power of SikuliX for automating tedious game checks through image recognition for navigation.  
-<p align="center">
-  <img src="https://github.com/yeetbix529/yeetbix529/assets/68143085/0d1cf7e7-742c-4566-ae57-5c3263f95e65" alt="Bounty Of One Image 1" width="200" height="200">
-  <img src="https://github.com/yeetbix529/yeetbix529/assets/68143085/392507cf-5c74-4c0a-999f-744309691d25" alt="Bounty Of One Image 2" width="200" height="200">
-</p>
-Explore the [Bounty Of One Automation Repository](https://github.com/yeetbix529/bountyofone_automation) for more details.
+Explore the power of image-recogition with SikuliX: [Bounty Of One Automation Repository](https://github.com/yeetbix529/bountyofone_automation) for more details.
