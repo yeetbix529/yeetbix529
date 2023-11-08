@@ -30,8 +30,3 @@ This project leverages the power of SikuliX for automating tedious game checks t
   <img src="https://github.com/yeetbix529/yeetbix529/assets/68143085/392507cf-5c74-4c0a-999f-744309691d25" alt="Bounty Of One Image 2" width="200" height="200">
 </p>
 Explore the [Bounty Of One Automation Repository](https://github.com/yeetbix529/bountyofone_automation) for more details.
-
-## Game Spotlight
-If you're a gaming enthusiast like me, I highly recommend checking out [Bounty Of One](https://store.steampowered.com/app/1968730/Bounty_of_One/) on Steam. It's an incredibly fun game that's worth your time!
-
-Feel free to connect with me, share your thoughts, or collaborate on exciting projects. Let's make the gaming world better together! 🎮
