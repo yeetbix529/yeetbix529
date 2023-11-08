@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I've been having fun learning more about image-recognition testing with SikuliX for a game that's captured my attention lately Bounty Of One!
 
-I'm currently working on image-recogition for automation testing.
+It follows a "what You See Is What You Get" method of automated navigation for game testing.
 
-I'm currently learning more about check-list style manual testing, and planning.
+Check out Bounty Of One on Steam if you get the chance, it is a really fun game to play: https://store.steampowered.com/app/1968730/Bounty_of_One/
