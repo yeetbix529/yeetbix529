@@ -14,16 +14,12 @@ Here are some ideas to get you started:
 -->
 # Welcome to my GitHub Profile! 👋
 
-I'm Josh, and I'm passionate about Quality Assurance in the game industry, especially when it comes to automation and performance testing! 🎮  
+Thank you for visiting my github! my name is josh, and I enjoy learning new tools and data analysis. You will find a range of projects within the game development field, and cyber security.
 
-## About Me
-- 👨‍💻 I enjoy diving deep into the world of automated game testing using various tools.
-- 🌟 
+Feel free to get in contact if you have any questions or suggestions as I am still learning and improving.
 
 ## Project Highlights
 Here are some of the exciting things I've been working on:
 
-### Bounty Of One Automation with SikuliX
-Explore the power of image-recogition with SikuliX: [Bounty Of One Automation Repository](https://github.com/yeetbix529/bountyofone_automation) for more details.
-
-### Stack-O-Bot Automated Performance testing with Unreal Engine
+### Realtime Intrustion Detection System
+Using the Snort3 to send alerts to the ELK stack for dashboarding for effective wifi analysis. 
