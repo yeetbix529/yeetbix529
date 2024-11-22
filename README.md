@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to my GitHub Profile! 👋
+### Welcome to my GitHub Profile! 👋
 
-Thank you for visiting my github! my name is josh, and I enjoy learning new tools and data analysis. You will find a range of projects within the game development field, and cyber security.
+Thank you for visiting my github! my name is josh, and I enjoy learning new tools and data analysis. You will find a range of projects within the game development, and cyber security fields.
 
 Feel free to get in contact if you have any questions or suggestions as I am still learning and improving.
 
-## Project Highlights
+### Project Highlights
 Here are some of the exciting things I've been working on:
 
-### Realtime Intrustion Detection System
+#### Realtime Intrustion Detection System
 Using the Snort3 to send alerts to the ELK stack for dashboarding for effective wifi analysis. 
